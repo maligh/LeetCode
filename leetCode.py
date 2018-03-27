@@ -15,7 +15,7 @@ def getProblemArray(jsonString):
 	array.reverse()
 	return array
 def getProblemString(array):
-	difficultys = ('Easy', 'Middle', 'Difficulty')
+	difficultys = ('Easy', 'Middle', 'Hard')
 	string = ''
 	for x in array:
 		string += '| %d |' % x['stat']['frontend_question_id'];
