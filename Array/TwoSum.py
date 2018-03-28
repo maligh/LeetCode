@@ -1,6 +1,6 @@
 # /**
 #  * Question Link: https://leetcode.com/problems/two-sum/
-#  * Primary idea: dict中key是nums的value，value是nums的index，所以遍历数组找到dict有值时即可得到两个下标
+#  * Primary idea: dict中key是nums的value，value是nums的index，所以遍历数组找到差值在dict的key中时即可
 #  *
 #  * Time Complexity: O(n), Space Complexity: O(n)
 #  */
