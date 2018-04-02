@@ -3,7 +3,7 @@
 
 | Number | Title | Solution | Hard | Time | Space |
 |:-------:| :------ | :-----: | :-----: | :-----: | :-----: |
-| 1 |[Two Sum](https://leetcode.com/problems/two-sum)|  | Easy |  |  |
+| 1 |[Two Sum](https://leetcode.com/problems/two-sum)| [Swift](https://github.com/maligh/LeetCode/blob/master/Array/TwoSum.swift) [Python](https://github.com/maligh/LeetCode/blob/master/Array/TwoSum.py)| Easy |  |  |
 | 2 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|  | Middle |  |  |
 | 3 |[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|  | Middle |  |  |
 | 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|  | Hard |  |  |
