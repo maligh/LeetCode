@@ -9,9 +9,9 @@
 | 4 |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays)|  | Hard |  |  |
 | 5 |[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)|  | Middle |  |  |
 | 6 |[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion)|  | Middle |  |  |
-| 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)|  | Easy |  |  |
+| 7 |[Reverse Integer](https://leetcode.com/problems/reverse-integer)| [Swift](https://github.com/maligh/LeetCode/blob/master/Math/ReverseInteger.swift) [Python](https://github.com/maligh/LeetCode/blob/master/Math/ReverseInteger.py) | Easy |  |  |
 | 8 |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi)|  | Middle |  |  |
-| 9 |[Palindrome Number](https://leetcode.com/problems/palindrome-number)|  | Easy |  |  |
+| 9 |[Palindrome Number](https://leetcode.com/problems/palindrome-number)| [Swift](https://github.com/maligh/LeetCode/blob/master/Math/PalindromeNumber.swift) [Python](https://github.com/maligh/LeetCode/blob/master/Math/PalindromeNumber.py) | Easy |  |  |
 | 10 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching)|  | Hard |  |  |
 | 11 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water)|  | Middle |  |  |
 | 12 |[Integer to Roman](https://leetcode.com/problems/integer-to-roman)|  | Middle |  |  |
