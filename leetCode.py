@@ -3,11 +3,13 @@
 
 import json
 import urllib.request
+import ssl
 
 def getJson(url):
 	headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20100101 Firefox/23.0'}
 	request = urllib.request.Request(url=url, headers=headers)
-	response = urllib.request.urlopen(request)
+	context = ssl._create_unverified_context()
+	response = urllib.request.urlopen(request,context=context)
 	return response.read()
 def getProblemArray(jsonString):
 	data = json.loads(jsonString)
