@@ -1,5 +1,4 @@
 # LeetCode
-2018年决定坚持一件小事，用Swift4、Python3 刷LeetCode
 
 | Number | Title | Solution | Hard |
 |:-------:| :------ | :-----: | :-----: |
